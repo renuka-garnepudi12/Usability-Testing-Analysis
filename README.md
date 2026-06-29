@@ -54,38 +54,25 @@ The objective of this project is to evaluate the usability of a food delivery mo
 
 ---
 
-## 📸 Project Screenshots
-
-### Cover Page
 ![Cover](assets/cover.png)
 
-### Objective
 ![Objective](assets/objective.png)
 
-### Test Plan
 ![Test Plan](assets/test-plan.png)
 
-### Participants
 ![Participants](assets/participants.png)
 
-### Test Scenarios
 ![Test Scenarios](assets/test-scenarios.png)
 
-### Observations
 ![Observations](assets/observations.png)
 
-### User Feedback
 ![User Feedback](assets/user-feedback.png)
 
-### Usability Metrics
 ![Usability Metrics](assets/usability-metrics.png)
 
-### Findings
 ![Findings](assets/findings.png)
 
-### Conclusion
 ![Conclusion](assets/conclusion.png)
-
 ---
 
 ## 📈 Outcome
