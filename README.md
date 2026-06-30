@@ -54,26 +54,65 @@ The objective of this project is to evaluate the usability of a food delivery mo
 
 ---
 
-![Cover](assets/cover.png)
+## 📖 Cover
 
-![Objective](assets/objective.png)
+![Cover](cover.png)
 
-![Test Plan](assets/test-plan.png)
-
-![Participants](assets/participants.png)
-
-![Test Scenarios](assets/test-scenarios.png)
-
-![Observations](assets/observations.png)
-
-![User Feedback](assets/user-feedback.png)
-
-![Usability Metrics](assets/usability-metrics.png)
-
-![Findings](assets/findings.png)
-
-![Conclusion](assets/conclusion.png)
 ---
+
+## 🎯 Objective
+
+![Objective](objective.png)
+
+---
+
+## 👥 Participants
+
+![Participants](participants.png)
+
+---
+
+## 📝 Test Plan
+
+![Test Plan](test-plan.png)
+
+---
+
+## ✅ Test Scenarios
+
+![Test Scenarios](test-scenarios.png)
+
+---
+
+## 👀 Observations
+
+![Observations](observations.png)
+
+---
+
+## 📊 Findings
+
+![Findings](findings.png)
+
+---
+
+## 📈 Usability Metrics
+
+![Usability Metrics](usability-metrics.png)
+
+---
+
+## 💬 User Feedback
+
+![User Feedback](user-feedback.png)
+
+---
+
+## 🎉 Conclusion
+
+![Conclusion](conclusion.png)
+
+
 
 ## 📈 Outcome
 This project improved my understanding of usability testing, user behavior analysis, usability metrics, and iterative design improvement. It also strengthened my skills in conducting usability tests, documenting findings, and presenting results in a professional UI/UX case study.
